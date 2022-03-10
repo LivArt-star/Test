@@ -1,0 +1,27 @@
+{
+
+{
+"name": "meters",
+"symbol": "mt",
+"EqualToMeters": 1
+},
+
+{
+"name": "santimeters",
+"symbol": "sm",
+"EqualToMeters": 100
+},
+
+{
+"name": "foots",
+"symbol": "ft",
+"EqualToMeters": 3.28
+},
+
+{
+"name": "Inches",
+"symbol": "inc",
+"EqualToMeters": 39.37
+}
+
+}
